@@ -1,6 +1,6 @@
-## >> Install requirements.txt (pip install -r requirements.txt)
+### >> Install requirements.txt (pip install -r requirements.txt)
 
-## >> Usage : python3 virtual_assistant.py
+### >> Usage : python3 virtual_assistant.py
 
 
 
