@@ -46,12 +46,7 @@ while True:
         engine.say(name)
         engine.runAndWait()
     elif text == ("what is your name"):
-        developer = "My name is Yudheshwar"
-        engine = pyttsx3.init()
-        engine.say(developer)
-        engine.runAndWait()
-    elif text == ("who is Sweta Manas"):
-        developer = "Swetha Manas is a famous Youtuber, Music Producer and a Talented Singer "
+        developer = "My name is Rookie"
         engine = pyttsx3.init()
         engine.say(developer)
         engine.runAndWait()
