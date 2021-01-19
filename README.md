@@ -5,7 +5,7 @@
 
 
 
-## >> Sample Commands :
+### >> Sample Commands :
 ### > hello
 ### > who are you
 ### > what is your name
