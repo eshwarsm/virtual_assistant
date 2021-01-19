@@ -2,8 +2,11 @@
 
 ## >> Usage : python3 virtual_assistant.py
 
-# >> Sample Commands :
-## > hello
+
+
+
+## >> Sample Commands :
+### > hello
 ## > who are you
 ## > what is your name
 ## > what can you do
